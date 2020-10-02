@@ -1,0 +1,2 @@
+./packs/contests/sfw.txt
+./packs/contests/nsfw.txt

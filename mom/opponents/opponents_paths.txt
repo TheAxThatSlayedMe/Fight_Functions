@@ -1,0 +1,4 @@
+./packs/opponents/animals.txt
+./packs/opponents/superheroes.txt
+./packs/opponents/buffy.txt
+./packs/opponents/heinlein.txt

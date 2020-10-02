@@ -1,0 +1,6 @@
+./packs/opponents/buffy.txt
+./packs/opponents/heinlein.txt
+./packs/opponents/xkcd.txt
+./packs/opponents/animals.txt
+./packs/opponents/tech_giants.txt
+./packs/opponents/cartoon_characters.txt
